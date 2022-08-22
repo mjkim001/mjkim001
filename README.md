@@ -1,8 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Honey&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=minji&fontSize=90)
 
 <!--
-**honey7734/honey7734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mjkim001/mjkim001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
