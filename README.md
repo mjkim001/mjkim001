@@ -19,9 +19,7 @@ Here are some ideas to get you started:
     <p>
     <a href="https://github.com/mjkim001" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
-    </a>
- 
-    </a>
+        </a>
     <a href="mailto:dev.kimminji@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the/badge&logo=Gmail&logoColor=FFFFFF"/>
     </a>
