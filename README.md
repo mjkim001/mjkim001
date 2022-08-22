@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <p>
-    <a href="https://github.com/honey7734" target="_blank">
+    <a href="https://github.com/mjkim001" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
     </a>
     <a href="https://www.notion.so/image9489/" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the/badge&logo=Notion&logoColor=FFFFFF"/>
     </a>
     </a>
-    <a href="mailto:gusdml7243@gmail.com" target="_blank">
+    <a href="mailto:dev.kimminji@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the/badge&logo=Gmail&logoColor=FFFFFF"/>
     </a>
     </p>
@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 <div align="center">
     <p>
         <img align="center"
-             src="https://github-readme-stats.vercel.app/api?username=honey7734&show_icons=true&locale=en"
+             src="https://github-readme-stats.vercel.app/api?username=mjkim001&show_icons=true&locale=en"
              alt="honey7734"/>
     </p>
     <p>
         <img align="center"
-             src="https://github-readme-stats.vercel.app/api/top-langs?username=honey7734&show_icons=true&locale=en&layout=compact"
+             src="https://github-readme-stats.vercel.app/api/top-langs?username=mjkim001&show_icons=true&locale=en&layout=compact"
              alt="honey7734"/>
     </p>
 
