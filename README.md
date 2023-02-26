@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 </div>
 -->
 ![MinJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkim001&show_icons=true&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjkim001)](https://solved.ac/mjkim001/)
+![Mazandi profile](http://mazandi.herokuapp.com/api?handle=mjkim001&theme=warm)
 
 
 # 💪Skills
